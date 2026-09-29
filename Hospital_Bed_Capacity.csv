@@ -1,0 +1,26 @@
+Department,Total_Beds,Free_Beds,Total_ICU_Beds,Free_ICU_Beds,Total_Amount_of_Beds,Staff_On_Duty
+Emergency Department (ED),140,22,20,4,160,110
+Trauma Center,100,15,25,5,125,85
+General Surgery,180,35,20,4,200,130
+Cardiac Surgery,110,25,25,5,135,95
+Neurosurgery,100,18,18,3,118,88
+Orthopedic Surgery,150,28,10,2,160,115
+Internal Medicine,240,48,15,4,255,150
+Cardiology,130,24,22,5,152,105
+Neurology,110,20,20,4,130,92
+Gastroenterology,95,18,10,2,105,78
+Pulmonology,110,20,15,3,125,82
+Infectious Diseases,90,16,12,3,102,76
+Oncology,140,26,18,3,158,120
+Nephrology,85,14,10,2,95,72
+Endocrinology,70,12,6,1,76,58
+Pediatrics General,170,32,10,2,180,135
+Pediatric ICU (PICU),45,7,45,7,45,60
+Neonatal ICU (NICU),60,10,60,10,60,70
+Obstetrics & Gynecology (O&G),160,30,5,1,165,125
+Burn Unit,40,7,20,3,60,50
+Transplant Unit,50,9,20,4,70,60
+Rehabilitation Unit,160,50,0,0,160,115
+Psychiatry,200,50,0,0,200,145
+Long-Term Care,240,70,0,0,240,160
+Palliative Care,90,30,0,0,90,65
